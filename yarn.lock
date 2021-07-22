@@ -52,10 +52,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@linux123123/jspteroapi@^2.3.4":
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/@linux123123/jspteroapi/-/jspteroapi-2.3.4.tgz#26338e08ad33bb821fc6fd8e288f7ce6bb4a05d4"
-  integrity sha512-PejRcXgywb5dRmAqY5kFcG/kJCGfRhshRtqaZU+Gf29NToHe0FE5hxO18qDDMSSLAJwERsfuapo9SngU/51cgg==
+"@linux123123/jspteroapi@^2.4.0":
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/@linux123123/jspteroapi/-/jspteroapi-2.4.3.tgz#b606ad015065b78d3709d2c66b45f78f4a9b4714"
+  integrity sha512-TeDBEfXpxjwDc9IrpDJJyQ9YmMSKbC8sYIN1GE7MSfx2D4d8DGIu7VnWWfMfGoNcMkfTHt+8zEFZjtuAZQYWyw==
   dependencies:
     node-fetch "^2.6.1"
 
