@@ -42,7 +42,7 @@
         "readline-sync": "^1.4.10",
         "rimraf": "^3.0.2",
         "shortid": "^2.2.16",
-        "typescript": "^4.2.3"
+        "typescript": "^4.3.5"
     },
     "devDependencies": {
         "@typescript-eslint/eslint-plugin": "^4.15.2",
